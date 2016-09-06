@@ -1191,7 +1191,6 @@
 <table class="confluenceTable" style="height: 334px;" width="1383">
 <tbody>
 </tbody>
-</table>
 <h1 id="id-300+100каналоввSlack-V.FinanceandMarketingTalks">V. Finance and Marketing Talks</h1>
 <div class="table-wrap">
 <table class="confluenceTable">
