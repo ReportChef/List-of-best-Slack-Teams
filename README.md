@@ -556,7 +556,6 @@
 <table class="confluenceTable" style="height: 334px;" width="1383">
 <tbody>
 </table>
-&nbsp;
 <h1 id="id-300+100каналоввSlack-III.ProgrammingTalks">III. Programming Talks</h1>
 <div class="table-wrap">
 <table class="confluenceTable">
