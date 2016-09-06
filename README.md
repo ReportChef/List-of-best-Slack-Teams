@@ -555,14 +555,6 @@
 <div>
 <table class="confluenceTable" style="height: 334px;" width="1383">
 <tbody>
-<tr>
-<td class="confluenceTd">
-<h3 id="id-11-Helpusspreadthelove!" style="text-align: center;"><strong>Help us spread the love!</strong></h3>
-<div style="padding-left: 180px;"><img class="confluence-embedded-image confluence-external-resource aligncenter" src="http://i.giphy.com/QbmFcNH7pfXQ4.gif" width="360" height="202" data-image-src="http://i.giphy.com/QbmFcNH7pfXQ4.gif" /></div>
-<h4 id="id-11-Theultimatelistof300Slackcommunities(Clicktotweet)" style="text-align: center;"><strong><em>The ultimate list of 400 Slack communities </em>(<a class="external-link" href="http://ctt.ec/J8BIf" rel="nofollow">click to tweet</a>)</strong></h4>
-</td>
-</tr>
-</tbody>
 </table>
 &nbsp;
 <h1 id="id-300+100каналоввSlack-III.ProgrammingTalks">III. Programming Talks</h1>
@@ -1204,13 +1196,6 @@
 &nbsp;
 <table class="confluenceTable" style="height: 334px;" width="1383">
 <tbody>
-<tr>
-<td class="confluenceTd">
-<h3 id="id-11-Helpusspreadthelove!" style="text-align: center;"><strong>Share this list with your friends</strong></h3>
-<div style="padding-left: 180px;"><img class="aligncenter" src="http://i.giphy.com/10hat9muNhpiRW.gif" width="341" height="192" /></div>
-<h4 id="id-11-Theultimatelistof300Slackcommunities(Clicktotweet)" style="text-align: center;"><strong><em>The ultimate list of 400 Slack communities </em>(<a class="external-link" href="http://ctt.ec/J8BIf" rel="nofollow">click to tweet</a>)</strong></h4>
-</td>
-</tr>
 </tbody>
 </table>
 <div>
@@ -2671,13 +2656,6 @@
 <div></div>
 <table class="confluenceTable" style="height: 334px;" width="1383">
 <tbody>
-<tr>
-<td class="confluenceTd">
-<h3 id="id-11-Helpusspreadthelove!" style="text-align: center;"></h3>
-<div style="padding-left: 180px;"><img class="aligncenter" src="http://i.giphy.com/oHW0iYJ2WmOlO.gif" width="500" height="281" /></div>
-<h4 style="text-align: left;"></h4>
-</td>
-</tr>
 </tbody>
 </table>
 <h4 id="id-11-Theultimatelistof300Slackcommunities(Clicktotweet)" style="text-align: justify;"><strong>Thanks for reading till the end! Do you know any other communities on Slack that are missing here? Please leave them in the comments below.</strong></h4>
