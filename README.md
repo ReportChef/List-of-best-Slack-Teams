@@ -4,8 +4,6 @@
 <p style="text-align: justify;"><strong>Update from 06-Sept:</strong> We're glad that many of you liked the list and have been sending us links with other communities. We decided to look for more, especially for non-IT Slack communities. And now the list contains <span style="color: #800080;">425 communities</span>. Can we make it to 500? :)</p>
 
 <table class="confluenceTable" style="height: 334px;" width="1383">
-<tbody>
-</tbody>
 </table>
 <h1></h1>
 <h1 id="id-300+100каналоввSlack-I.ProductTalks">I. Product Talks</h1>
