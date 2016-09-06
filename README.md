@@ -2691,4 +2691,4 @@
 <h4></h4>
 &nbsp;
 
-<strong>P.S. If </strong><strong>you found this list worthwhile please </strong><strong>share it with your friends:</strong>
+<strong>P.S. If </strong><strong>you found this list worthwhile please </strong><strong>share it with your friends!</strong>
