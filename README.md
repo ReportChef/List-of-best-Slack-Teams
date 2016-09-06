@@ -2,15 +2,9 @@
 
 <p style="text-align: justify;">We're excited to see how communities on Slack are steadily growing day by day. People from different countries and backgrounds discuss a various range of topics in these communities. It is a source of valuable information and contacts we use every day at <a href="http://reportchef.com/?utm_source=github&amp;utm_medium=readmelink&amp;utm_campaign=300communities">ReportChef</a> to build one single tool to share progress and obstacles with your team in Slack. We decided to compose a list of Slack communities for your own good. It took Dmitry (analyst at <a href="http://reportchef.com/?utm_source=github&amp;utm_medium=readmelink&amp;utm_campaign=300communities">ReportChef</a>) several weeks and after he finished it on 22nd of Aug, the list contained 300 communities.</p>
 <p style="text-align: justify;"><strong>Update from 06-Sept:</strong> We're glad that many of you liked the list and have been sending us links with other communities. We decided to look for more, especially for non-IT Slack communities. And now the list contains <span style="color: #800080;">425 communities</span>. Can we make it to 500? :)</p>
-<p style="text-align: justify;"><span style="color: #800080;">Newly added channels marked with this color for you to spot them easily.</span></p>
 
 <table class="confluenceTable" style="height: 334px;" width="1383">
 <tbody>
-<tr>
-<td class="confluenceTd">
-<h3 id="id-11-Helpusspreadthelove!" style="text-align: center;"><strong> </strong></h3>
-<div style="padding-left: 180px;"><img class="alignnone" src="http://i.giphy.com/4Z3DdOZRTcXPa.gif" width="306" height="234" /></div></td>
-</tr>
 </tbody>
 </table>
 <h1></h1>
