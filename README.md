@@ -268,8 +268,6 @@
 </tr>
 </tbody>
 </table>
-</div>
-&nbsp;
 <h1 id="id-300+100каналоввSlack-II.ITTalks">II. IT Talks</h1>
 <div>
 <div class="table-wrap">
@@ -1194,8 +1192,6 @@
 <tbody>
 </tbody>
 </table>
-<div>
-<div>
 <h1 id="id-300+100каналоввSlack-V.FinanceandMarketingTalks">V. Finance and Marketing Talks</h1>
 <div class="table-wrap">
 <table class="confluenceTable">
@@ -1463,8 +1459,6 @@
 </tr>
 </tbody>
 </table>
-</div>
-&nbsp;
 <h1 id="id-300+100каналоввSlack-VI.LocalTalks">VI. Local Talks</h1>
 <div class="table-wrap">
 <table class="confluenceTable">
@@ -2242,11 +2236,6 @@
 </tr>
 </tbody>
 </table>
-</div>
-&nbsp;
-
-</div>
-</div>
 <h1 id="id-300+100каналоввSlack-VII.Miscellaneous">VII. Miscellaneous</h1>
 <div>
 <div>
@@ -2657,6 +2646,4 @@
 <h4 id="id-11-Theultimatelistof300Slackcommunities(Clicktotweet)" style="text-align: justify;"><strong>Thanks for reading till the end! Do you know any other communities on Slack that are missing here? Please leave them in the comments below.</strong></h4>
 <h4></h4>
 <h4></h4>
-&nbsp;
-
 <strong>P.S. If </strong><strong>you found this list worthwhile please </strong><strong>share it with your friends!</strong>
