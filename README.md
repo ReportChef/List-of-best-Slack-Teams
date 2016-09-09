@@ -813,6 +813,16 @@
 </tr>
 <tr>
 <td class="confluenceTd" colspan="3">
+<h3 id="id-300+100каналоввSlack-Dart">Dart</h3>
+</td>
+</tr>
+<tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="https://dartlang-slack.herokuapp.com/" rel="nofollow">Dart</a></td>
+<td class="confluenceTd" colspan="1">678</td>
+<td class="confluenceTd" colspan="1">Programming language community</td>
+</tr>
+<tr>
+<td class="confluenceTd" colspan="3">
 <h3 id="id-300+100каналоввSlack-Frontend">Frontend</h3>
 </td>
 </tr>
