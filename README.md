@@ -942,6 +942,11 @@
 <td class="confluenceTd" colspan="1">Unix-like Operating System community</td>
 </tr>
 <tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="https://ddd-cqrs-es.herokuapp.com/" rel="nofollow">Dist-sys</a></td>
+<td class="confluenceTd" colspan="1">310</td>
+<td class="confluenceTd" colspan="1">Domain Driven Design, Command Query Responsibilty Seperation and Event Sourcing</td>
+</tr>
+<tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://parse-opensource.sapp.io/" rel="nofollow">Parse</a></td>
 <td class="confluenceTd" colspan="1">306</td>
 <td class="confluenceTd" colspan="1">Parse community</td>
