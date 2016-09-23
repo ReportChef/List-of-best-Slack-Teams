@@ -1560,6 +1560,16 @@
 </tr>
 <tr>
 <td class="confluenceTd" colspan="3">
+<h3 id="id-300+100каналоввSlack-Bosnia">Bosnia and Herzegovina</h3>
+</td>
+</tr>
+<tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="http://hashtagbhit.com/" rel="nofollow">BHIT</a></td>
+<td class="confluenceTd" colspan="1">70</td>
+<td class="confluenceTd" colspan="1">The bosnian tech community</td>
+</tr>
+<tr>
+<td class="confluenceTd" colspan="3">
 <h3 id="id-300+100каналоввSlack-Brazil">Brazil</h3>
 </td>
 </tr>
