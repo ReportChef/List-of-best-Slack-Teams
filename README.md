@@ -2463,6 +2463,16 @@
 </tr>
 <tr>
 <td class="confluenceTd" colspan="3">
+<h3 id="id-300+100каналоввSlack-Travel">Travel</h3>
+</td>
+</tr>
+<tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="https://traveltoday.chat/" rel="nofollow">TravelToday</a></td>
+<td class="confluenceTd" colspan="1">n/a</td>
+<td class="confluenceTd" colspan="1">The chat community for long-term travelers: share tips and experiences for your round-the-world trip, road-trip, expat, etc.</td>
+</tr>
+<tr>
+<td class="confluenceTd" colspan="3">
 <h3 id="id-300+100каналоввSlack-Other">Other</h3>
 </td>
 </tr>
