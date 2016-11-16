@@ -657,6 +657,11 @@
 <td class="confluenceTd" colspan="1">JavaScript framework</td>
 </tr>
 <tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="http://slackin.angularbeers.org" rel="nofollow">AngularBeers</a></td>
+<td class="confluenceTd" colspan="1">752</td>
+<td class="confluenceTd" colspan="1">Angular Barcelona Community</td>
+</tr>
+<tr>
 <td class="confluenceTd" colspan="1"><span style="color: #800080;"><a class="external-link" style="color: #800080;" href="https://monax.slack.com/" rel="nofollow">Monax Library</a></span></td>
 <td class="confluenceTd" colspan="1"><span style="color: #800080;">n/a</span></td>
 <td class="confluenceTd" colspan="1"><span style="color: #800080;">Monax provide a macro to create optimizing Monads and their syntactic sugar</span></td>
