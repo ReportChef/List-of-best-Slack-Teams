@@ -658,7 +658,7 @@
 </tr>
 <tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://slackin.angularbeers.org" rel="nofollow">AngularBeers</a></td>
-<td class="confluenceTd" colspan="1">752</td>
+<td class="confluenceTd" colspan="1">1110</td>
 <td class="confluenceTd" colspan="1">Angular Barcelona Community</td>
 </tr>
 <tr>
