@@ -1848,6 +1848,11 @@
 <td class="confluenceTd" colspan="1">JavaScript Meetups in Spanish</td>
 </tr>
 <tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="https://chat.phpmexico.mx/" rel="nofollow">PHP México</a></td>
+<td class="confluenceTd" colspan="1">371</td>
+<td class="confluenceTd" colspan="1">Community of developers who write, wrote or wish to write PHP, we also organize bimonthly meetups</td>
+</tr>
+<tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://slack.gdljs.com/" rel="nofollow">GDLJS</a></td>
 <td class="confluenceTd" colspan="1">286</td>
 <td class="confluenceTd" colspan="1">JavaScript Conference in Spanish</td>
