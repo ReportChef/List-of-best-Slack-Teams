@@ -107,6 +107,11 @@
 <td class="confluenceTd" colspan="1">SaaS founders &amp; professionals</td>
 </tr>
 <tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="http://parkland.io/" rel="nofollow">The Parkland</a></td>
+<td class="confluenceTd" colspan="1">322</td>
+<td class="confluenceTd" colspan="1">Community for startups, entrepreneurship, and products in Raleigh / Durham / Chapel Hill (The Triangle) North Carolina</td>
+</tr>
+<tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://www.artisans.digital/" rel="nofollow">Digital Artisans</a></td>
 <td class="confluenceTd" colspan="1">191</td>
 <td class="confluenceTd" colspan="1">Place where pixel artists, code poets, copywriting wordsmiths and masters of the digital arts can escape the confines of solitude and aid in each others enlightenment</td>
