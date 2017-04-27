@@ -2212,6 +2212,12 @@
 <td class="confluenceTd" colspan="1">Where Unity developers gather to recount their adventures in the wild</td>
 </tr>
 <tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="https://wyotech.herokuapp.com" rel="nofollow">Wyoming Tech</a></td>
+<td class="confluenceTd" colspan="1">n/a</td>
+<td class="confluenceTd" colspan="1">Bringing togetherWyoming's Tech community</td>
+</tr>
+
+<tr>
 <td class="confluenceTd" colspan="1">
 <h3 id="id-300+100каналоввSlack-Uzbekistan">Uzbekistan</h3>
 </td>
