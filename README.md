@@ -1337,6 +1337,11 @@
 <td class="confluenceTd" colspan="1">Global chat on Decentralized Autonomous Organization (DAO)</td>
 </tr>
 <tr>
+<td class="confluenceTd" colspan="1"><u><a class="external-link" href="https://slack.pivx.org/" rel="nofollow">Pivx</a></u></td>
+<td class="confluenceTd" colspan="1">5095</td>
+<td class="confluenceTd" colspan="1">Private, Instant and Community focused digital cryptocurrency</td>
+</tr>
+<tr>
 <td class="confluenceTd" colspan="1"><u><a class="external-link" href="https://storj-inviter.herokuapp.com/" rel="nofollow">Storj</a></u></td>
 <td class="confluenceTd" colspan="1">4656</td>
 <td class="confluenceTd" colspan="1">Decentralized Cloud Storage from Storj.io</td>
