@@ -627,11 +627,6 @@
 <td class="confluenceTd" colspan="1">Framework-agnostic, datastore-agnostic JavaScript ORM</td>
 </tr>
 <tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="http://slack.pouchdb.com/" rel="nofollow">PouchDB</a></td>
-<td class="confluenceTd" colspan="1">338</td>
-<td class="confluenceTd" colspan="1">Open-source JavaScript database inspired by Apache CouchDB community</td>
-</tr>
-<tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="https://slack.reactjsnews.com/" rel="nofollow">ReactJS</a></td>
 <td class="confluenceTd" colspan="1">238</td>
 <td class="confluenceTd" colspan="1">ReactJS News</td>
@@ -650,16 +645,6 @@
 <td class="confluenceTd" colspan="1"><a class="external-link" href="https://webtask.it.auth0.com/api/run/tjanczuk/edgejs-slack-invite" rel="nofollow">EdgeJS</a></td>
 <td class="confluenceTd" colspan="1">141</td>
 <td class="confluenceTd" colspan="1">Edge.js community</td>
-</tr>
-<tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="http://angularchat.co/" rel="nofollow">AngularJS</a></td>
-<td class="confluenceTd" colspan="1">n/a</td>
-<td class="confluenceTd" colspan="1">JavaScript framework</td>
-</tr>
-<tr>
-<td class="confluenceTd" colspan="1"><span style="color: #800080;"><a class="external-link" style="color: #800080;" href="https://monax.slack.com/" rel="nofollow">Monax Library</a></span></td>
-<td class="confluenceTd" colspan="1"><span style="color: #800080;">n/a</span></td>
-<td class="confluenceTd" colspan="1"><span style="color: #800080;">Monax provide a macro to create optimizing Monads and their syntactic sugar</span></td>
 </tr>
 <tr>
 <td class="confluenceTd" colspan="3">
