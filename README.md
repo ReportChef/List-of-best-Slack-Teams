@@ -572,19 +572,9 @@
 </td>
 </tr>
 <tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="http://slack.socket.io/" rel="nofollow">Socket.io</a></td>
-<td class="confluenceTd" colspan="1">13000</td>
-<td class="confluenceTd" colspan="1">JavaScript library for real-time web applications</td>
-</tr>
-<tr>
 <td class="confluenceTd" colspan="1"><u><a class="external-link" href="https://ember-community-slackin.herokuapp.com/" rel="nofollow">EmberJS</a></u></td>
 <td class="confluenceTd" colspan="1">7099</td>
 <td class="confluenceTd" colspan="1">Open-source JavaScript web framework, based on the Model–view–viewmodel (MVVM) pattern</td>
-</tr>
-<tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="https://slack.babeljs.io/" rel="nofollow">BabelJS</a></td>
-<td class="confluenceTd" colspan="1"> 4248</td>
-<td class="confluenceTd" colspan="1">Compiler for writing next generation JavaScript community</td>
 </tr>
 <tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://slack.themeteorchef.com/" rel="nofollow">Meteor Chef</a></td>
@@ -592,29 +582,14 @@
 <td class="confluenceTd" colspan="1">JavaScript web framework written using Node.js</td>
 </tr>
 <tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="http://nodeslackers.io/" rel="nofollow">Node.js</a></td>
-<td class="confluenceTd" colspan="1">1627</td>
-<td class="confluenceTd" colspan="1">Runtime environment for server-side Web applications</td>
-</tr>
-<tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://slack.telescopeapp.org/" rel="nofollow">Telescope</a></td>
 <td class="confluenceTd" colspan="1">1584</td>
 <td class="confluenceTd" colspan="1">Open-source app platform built with React and powered by Meteor</td>
 </tr>
 <tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="https://www.angularattack.com/slack" rel="nofollow">AngularAttack</a></td>
-<td class="confluenceTd" colspan="1">752</td>
-<td class="confluenceTd" colspan="1">Angular Hackathon community</td>
-</tr>
-<tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://slack.borojs.com/" rel="nofollow">BoroJS</a></td>
 <td class="confluenceTd" colspan="1">524</td>
 <td class="confluenceTd" colspan="1">Conferences for the JavaScript community</td>
-</tr>
-<tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="https://vueslack.com/" rel="nofollow">VueJS</a></td>
-<td class="confluenceTd" colspan="1">479</td>
-<td class="confluenceTd" colspan="1">MVVM for building interactive interfaces</td>
 </tr>
 <tr>
 <td class="confluenceTd" colspan="1"><span style="color: #800080;"><a class="external-link" style="color: #800080;" href="https://metalsmith-slack.herokuapp.com/" rel="nofollow">Metalsmith</a></span></td>
@@ -625,11 +600,6 @@
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://slack.js-data.io/" rel="nofollow">JSData</a></td>
 <td class="confluenceTd" colspan="1">466</td>
 <td class="confluenceTd" colspan="1">Framework-agnostic, datastore-agnostic JavaScript ORM</td>
-</tr>
-<tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="http://slack.pouchdb.com/" rel="nofollow">PouchDB</a></td>
-<td class="confluenceTd" colspan="1">338</td>
-<td class="confluenceTd" colspan="1">Open-source JavaScript database inspired by Apache CouchDB community</td>
 </tr>
 <tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="https://slack.reactjsnews.com/" rel="nofollow">ReactJS</a></td>
@@ -652,16 +622,6 @@
 <td class="confluenceTd" colspan="1">Edge.js community</td>
 </tr>
 <tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="http://angularchat.co/" rel="nofollow">AngularJS</a></td>
-<td class="confluenceTd" colspan="1">n/a</td>
-<td class="confluenceTd" colspan="1">JavaScript framework</td>
-</tr>
-<tr>
-<td class="confluenceTd" colspan="1"><span style="color: #800080;"><a class="external-link" style="color: #800080;" href="https://monax.slack.com/" rel="nofollow">Monax Library</a></span></td>
-<td class="confluenceTd" colspan="1"><span style="color: #800080;">n/a</span></td>
-<td class="confluenceTd" colspan="1"><span style="color: #800080;">Monax provide a macro to create optimizing Monads and their syntactic sugar</span></td>
-</tr>
-<tr>
 <td class="confluenceTd" colspan="3">
 <h3 id="id-300+100каналоввSlack-PHP">PHP</h3>
 </td>
@@ -675,11 +635,6 @@
 <td class="confluenceTd" colspan="1"><a class="external-link" href="https://phpchat.co/" rel="nofollow">PHP Chat</a></td>
 <td class="confluenceTd" colspan="1">397</td>
 <td class="confluenceTd" colspan="1">Community of PHP programmers from around the world</td>
-</tr>
-<tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="https://symfony2slack.herokuapp.com/" rel="nofollow">Symfony2</a></td>
-<td class="confluenceTd" colspan="1">370</td>
-<td class="confluenceTd" colspan="1">PHP framework community</td>
 </tr>
 <tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://php.ug/" rel="nofollow">PHP_UG</a></td>
@@ -697,11 +652,6 @@
 <td class="confluenceTd" colspan="1">Community for iOS developers</td>
 </tr>
 <tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="http://swift-lang.schwa.io/" rel="nofollow">Swift-lang</a></td>
-<td class="confluenceTd" colspan="1">1748</td>
-<td class="confluenceTd" colspan="1">Programming language community</td>
-</tr>
-<tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="https://iosstack-friends.signup.team/" rel="nofollow">iosstack-friends</a></td>
 <td class="confluenceTd" colspan="1">680</td>
 <td class="confluenceTd" colspan="1">The App Guy Podcast</td>
@@ -715,11 +665,6 @@
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://swiftnoobs.xyz/" rel="nofollow">Swift Noobs</a></td>
 <td class="confluenceTd" colspan="1">223</td>
 <td class="confluenceTd" colspan="1">Community devoted to learning the Swift programming language</td>
-</tr>
-<tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="http://slack.swiftx.io/" rel="nofollow">Open Swift</a></td>
-<td class="confluenceTd" colspan="1">101</td>
-<td class="confluenceTd" colspan="1">Swift Group</td>
 </tr>
 <tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://tvos-developers.github.io/" rel="nofollow">tvOS</a></td>
