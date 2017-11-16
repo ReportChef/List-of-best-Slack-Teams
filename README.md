@@ -592,7 +592,7 @@
 <td class="confluenceTd" colspan="1">JavaScript web framework written using Node.js</td>
 </tr>
 <tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="http://nodeslackers.io/" rel="nofollow">Node.js</a></td>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="http://nodeslackers.com/" rel="nofollow">Node.js</a></td>
 <td class="confluenceTd" colspan="1">1627</td>
 <td class="confluenceTd" colspan="1">Runtime environment for server-side Web applications</td>
 </tr>
