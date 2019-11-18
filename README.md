@@ -1671,7 +1671,7 @@
 <td class="confluenceTd" colspan="1"><span style="color: #800080;">Toulouse  IT scene</span></td>
 </tr>
 <tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="https://seolyon.slack.com/" rel="nofollow">Slack SEO Lyon</a></td>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="https://seolyon.slack.com/" rel="nofollow">SEO Lyon</a></td>
 <td class="confluenceTd" colspan="1">360</td>
 <td class="confluenceTd" colspan="1">SEO-community in French</td>
 </tr>
