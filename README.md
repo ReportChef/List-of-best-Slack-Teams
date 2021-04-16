@@ -1838,8 +1838,8 @@
 </td>
 </tr>
 <tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="http://www.codersmexico.com/" rel="nofollow">Coders Mexico</a></td>
-<td class="confluenceTd" colspan="1">586</td>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="http://www.codersmexico.com.mx/" rel="nofollow">Coders Mexico</a></td>
+<td class="confluenceTd" colspan="1">1700</td>
 <td class="confluenceTd" colspan="1">Mexican cluster</td>
 </tr>
 <tr>
